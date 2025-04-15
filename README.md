@@ -8,5 +8,5 @@ Test can be executed by running WebTestRunner class or by running feature file(s
 # Browser Versions used
 chromedriver version used is "137.0.7123.0"
 
-**Please have Chrome browser version "137.0.7123.0" installed.** 
+**Please have Chrome browser version "137.0.7123.0" or earlier installed.** 
 
